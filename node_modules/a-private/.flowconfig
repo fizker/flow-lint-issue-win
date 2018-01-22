@@ -1,0 +1,11 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[options]
+
+[lints]
+# (https://flow.org/en/docs/linting/)
+all=error
